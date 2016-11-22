@@ -60,11 +60,12 @@
 使用clone和new需要根据构造对象的成本来决定
 ****
 
-##本节问题
+###本节问题
+****
 
 ![](http://img.blog.csdn.net/20160316125730134)
 
-[为什么String类型的变量，在浅拷贝下也修改了，但原型并未改变呢？]()
+[为什么String类型的变量，在浅拷贝下也修改了，但原型并未改变呢？](http://blog.csdn.net/jonstank2013/article/details/50904467)
 
 String类型是一个值类型
 
