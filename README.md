@@ -51,6 +51,13 @@
 [《Android源码设计模式》第二十四章 (桥接模式)](https://github.com/Mars-Cloud/EssaysNotes/blob/dev/Android/%E3%80%8AAndroid%E6%BA%90%E7%A0%81%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E3%80%8B%E7%AC%AC%E4%BA%8C%E5%8D%81%E5%9B%9B%E7%AB%A0.md)
 
 
+####Android开发艺术探索
+
+[《Android 开发艺术探索》第六章](https://github.com/Mars-Cloud/EssaysNotes/blob/dev/Android/%E3%80%8AAndroid%20%E5%BC%80%E5%8F%91%E8%89%BA%E6%9C%AF%E6%8E%A2%E7%B4%A2%E3%80%8B%E7%AC%AC%E5%85%AD%E7%AB%A0.md)
+
+[《Android 开发艺术探索》第七章.md](https://github.com/Mars-Cloud/EssaysNotes/blob/dev/Android/%E3%80%8AAndroid%20%E5%BC%80%E5%8F%91%E8%89%BA%E6%9C%AF%E6%8E%A2%E7%B4%A2%E3%80%8B%E7%AC%AC%E4%B8%83%E7%AB%A0.md)
+
+
 ####BookOne
 
 [《Effective Java 第二版》第二章](https://github.com/Mars-Cloud/EssaysNotes/blob/dev/BookOne/%E3%80%8AEffective%20Java%20%E7%AC%AC%E4%BA%8C%E7%89%88%E3%80%8B%E7%AC%AC%E4%BA%8C%E7%AB%A0%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0.md)
