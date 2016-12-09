@@ -12,7 +12,7 @@
 
 [《Android源码设计模式》第五章 (工厂模式)](https://github.com/Mars-Cloud/EssaysNotes/blob/dev/Android/%E3%80%8AAndroid%E6%BA%90%E7%A0%81%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E3%80%8B%E7%AC%AC%E4%BA%94%E7%AB%A0.md)
 
-[《Android源码设计模式》第六章 (抽象工厂)](https://github.com/Mars-Cloud/EssaysNotes/blob/dev/Android/%E3%80%8AAndroid%20%E5%BC%80%E5%8F%91%E8%89%BA%E6%9C%AF%E6%8E%A2%E7%B4%A2%E3%80%8B%E7%AC%AC%E5%85%AD%E7%AB%A0.md)
+[《Android源码设计模式》第六章 (抽象工厂)]()
 
 [《Android源码设计模式》第七章 (策略模式)](https://github.com/Mars-Cloud/EssaysNotes/blob/dev/Android/%E3%80%8AAndroid%E6%BA%90%E7%A0%81%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E3%80%8B%E7%AC%AC%E4%B8%83%E7%AB%A0.md)
 
@@ -55,7 +55,7 @@
 
 [《Android 开发艺术探索》第六章](https://github.com/Mars-Cloud/EssaysNotes/blob/dev/Android/%E3%80%8AAndroid%20%E5%BC%80%E5%8F%91%E8%89%BA%E6%9C%AF%E6%8E%A2%E7%B4%A2%E3%80%8B%E7%AC%AC%E5%85%AD%E7%AB%A0.md)
 
-[《Android 开发艺术探索》第七章.md](https://github.com/Mars-Cloud/EssaysNotes/blob/dev/Android/%E3%80%8AAndroid%20%E5%BC%80%E5%8F%91%E8%89%BA%E6%9C%AF%E6%8E%A2%E7%B4%A2%E3%80%8B%E7%AC%AC%E4%B8%83%E7%AB%A0.md)
+[《Android 开发艺术探索》第七章](https://github.com/Mars-Cloud/EssaysNotes/blob/dev/Android/%E3%80%8AAndroid%20%E5%BC%80%E5%8F%91%E8%89%BA%E6%9C%AF%E6%8E%A2%E7%B4%A2%E3%80%8B%E7%AC%AC%E4%B8%83%E7%AB%A0.md)
 
 
 ####BookOne
