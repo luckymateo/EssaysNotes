@@ -17,16 +17,4 @@
 		* 每个区块的 Hash 都是不一样的，可以通过 Hash 标识区块。
 		* 如果区块的内容变了，它的 Hash 一定会改变。
 	![Markdown Screenshot](http://www.ruanyifeng.com/blogimg/asset/2017/bg2017122703.png)
-	
-* LayerDrawable
-		
-* StateListDrawable
-* LevelListDrawable
-* TransitionDrawable
-* InsetDrawable
-* ScaleDrawable
-* ClipDrawable
-
-#...
-不想一一列举了，在写就吐了，这种字典类型的功能，个人觉得还是随用随看比较好，不需操之过急。
 
