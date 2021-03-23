@@ -1,1 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2021-03-23T10:52:58.925Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" version="14.4.6" etag="uo5QcalrYnfzhVibMna6" type="github"><diagram id="V8mPxPWyea3uVUVciPE8">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-23T10:57:57.541Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="ieNk5y3UJQClfCb6bCzF" version="14.4.6" type="github">
+  <diagram id="V8mPxPWyea3uVUVciPE8" name="第 1 页">
+    <mxGraphModel dx="988" dy="637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LphEBjlDAagN19TpYPDq-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="230" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LphEBjlDAagN19TpYPDq-2" value="1. 先打招呼：您好，面试官&lt;br&gt;&lt;div&gt;&lt;span&gt;2. 开始介绍自己：&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;我叫马小云，毕业于中北大学，我在校期间读的是软件工程专业，&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;然后再16年7月开始在轻松筹公司任职，当时也是对go语言感兴趣所以，&lt;/span&gt;&lt;/div&gt;&lt;div&gt;所以开始了go的开发&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="115" width="400" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
