@@ -1,1 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2021-03-28T09:32:30.498Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" version="14.4.6" etag="P4wXJyRKAZ_TKQsP-ymo" type="github"><diagram id="0qNO6ngARuXj-BMonqxU">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-28T09:48:29.653Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="o3ZT0dlH41OORAgMJSk_" version="14.4.6" type="github">
+  <diagram id="0qNO6ngARuXj-BMonqxU" name="第 1 页">
+    <mxGraphModel dx="1186" dy="707" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="t-xBgn_WhRr63Vb_r2F--1" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255) ; color: rgb(68 , 68 , 68)&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;关于 select poll epoll 的触发条件说明&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255) ; color: rgb(68 , 68 , 68)&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font color=&quot;#444444&quot; style=&quot;font-size: 12px&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;TCP、UDP 读缓存区的低水位默认值为1，也就是只要内核缓存区有数据我们就可以读&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;TCP、UDP 写缓存区的低水位默认值为2048（2k），一般我们创建好的时候就是可写状态，因为套接字默认的发送缓存区大小是8k&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;读一个已经FIN的连接，会返回EOF，读一个错误的套接字，会返回-1，并返回具体的错误原因&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;写一个已经FIN的连接，会产生SIGPIPE信号，一般我们的网络程序要自己处理这个信号，因为这个信号默认的处理办法是退出程序&lt;/div&gt;&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="35" width="710" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
